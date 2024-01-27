@@ -1,0 +1,13 @@
+Saransh - AI based tool
+
+-npm create vite@latest 
+-npm i @reduxjs/toolkit
+-npm install -D tailwindcss postcss autoprefixer
+-npm i react-redux
+
+Tech and tools
+->vite
+->reactJS
+->Tailwind CSS for styling
+->OpenAI API for fetching data
+->Redux toolkit
